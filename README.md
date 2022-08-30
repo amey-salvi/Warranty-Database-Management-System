@@ -6,5 +6,5 @@ Roles :
 Frontend :
 Amitesh and Amey
 
-Backend 
+Backend :
 Zaid and Akhil
